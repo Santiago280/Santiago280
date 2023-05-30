@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Santiago Meneses <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Electronic+and+Computer+Engineering+Student;Competitive+Programmer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Electronic+and+Computer+Engineering+Student;Passionate+Software+Developer;"></a>
 </p>
 
 
@@ -12,7 +12,7 @@
 
 <br><br>
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :computer: I am a competitive programmer at `Leetcode`, `Google Contests`.
 - :student: I’m currently learning `Electronic and Computer Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
