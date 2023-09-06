@@ -13,9 +13,9 @@
 <br><br>
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Leetcode`, `Google Contests`.
-- :student: I’m currently learning `Electronic and Computer Engineering`.
+- :student: I’m currently learning `App development`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
+- :thinking: I’m currently looking for a placement year.
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
