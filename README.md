@@ -94,6 +94,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiago280&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 
+<!--
 </details>
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
@@ -105,6 +106,7 @@
 	    <img alt="Santiago280's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Santiago280&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	
 </details>
+-->
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
